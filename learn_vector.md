@@ -1,7 +1,7 @@
 # vector
 
 ###   概念
-vector是顺序、动态的范性容器
+vector是顺序、动态的范性容器[链接](http://www.runoob.com/w3cnote/cpp-vector-container-analysis.html)
 
 ###   常用函数
 ####  增加(单个加+批量加)
