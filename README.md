@@ -7,6 +7,6 @@
 [namespace](https://github.com/BrushXiaoMinGuo/learncpp/blob/master/learn_namespace.cpp)      
 
 ### 容器
-[allocator](https://github.com/BrushXiaoMinGuo/learncpp/blob/master/self_allocator.cpp)     
+[allocator_test](https://github.com/BrushXiaoMinGuo/learncpp/blob/master/self_allocator.cpp)     
 [allocator](https://github.com/BrushXiaoMinGuo/learncpp/blob/master/self_allocator.h)     
 [vector](https://github.com/BrushXiaoMinGuo/learncpp/blob/master/learn_vector.md)      
